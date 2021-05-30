@@ -1,0 +1,26 @@
+
+body{
+  background-color: #34656d;
+}
+
+
+
+
+
+p{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+h3{
+color:  #FFE042;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
